@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Катя Наконе](https://up.htmlacademy.ru/adaptive/9/user/316635).
-* Наставник: `Неизвестно`.
+* Наставник: [Лена Карякина](https://htmlacademy.ru/profile/cubizm).
 
 ---
 
